@@ -3,14 +3,14 @@
 
 
 	{
-		"level1": "Goal",
+		"level1": "Acme",
 		"level2": "North America",
 		"person": "Dwayne Billiot",
 		"kpi": 80,
 		"image":"Dwayne.jpg"
 	},
 	{
-		"level1": "Goal",
+		"level1": "Acme",
 		"level2": "North America",
 		"level3": "United States",
 		"person": "Robert C. Carmichael",
